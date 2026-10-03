@@ -1,4 +1,4 @@
-## Hi there I am Barath Kumar👋
+## Hi there I am Barath Kumar Basker 👋
 
 <!--
 **barathkumarbasker/barathkumarbasker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm currently studying in Panimalar Engineering College. I am an aspiring engineer.
+
+- 🔭 I’m currently working on learning Data Structures.
